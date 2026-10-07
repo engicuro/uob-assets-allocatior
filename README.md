@@ -1,1 +1,1 @@
-# uob-assets-allocatior
+# uob-assets-allocator
